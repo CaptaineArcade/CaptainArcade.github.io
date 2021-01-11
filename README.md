@@ -41,3 +41,16 @@ string text = Console.ReadLine(); -> permet d'attendre une chaine de caractère 
 
 char key = Console.ReadKey(); -> opermet d'attendre une touche et la stock sous le nom de la variable "key";
 
+## 3. Statements
+
+### 1. if
+
+If :
+
+Operators : 
+- > : superieur
+- >= : superieur ou égal
+- < : inferieur
+- =< : inferieur ou égal
+- == : égalité
+- != : n'est pas égal
